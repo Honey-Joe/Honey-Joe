@@ -62,6 +62,6 @@
  <strong>📈 Contribution Graph</strong>
 
 <p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Honey-Joe&area=true&hide_border=true&custom_title=Honey-JOe%20S's%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=ff7aa2&point=cfcfcf" />  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Honey-Joe&area=true&hide_border=true&custom_title=Honey-Joe%20S's%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=ff7aa2&point=cfcfcf" />  
 </p>  
 ###
