@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
+ 
+
 ###
 
 <div align="left">
@@ -57,4 +59,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Honey-Joe/Honey-Joe/output/pacman-contribution-graph.svg">
 </picture>
 
+ <strong>📈 Contribution Graph</strong>
+
+<p align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Honey-Joe&area=true&hide_border=true&custom_title=Honey-JOe%20S's%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=ff7aa2&point=cfcfcf" />  
+</p>  
 ###
